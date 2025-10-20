@@ -1,0 +1,5 @@
+{
+  "name": "Copy of Git Hook Analyzer",
+  "description": "An application that uses Gemini to analyze and explain the functionality of Git hook scripts.",
+  "requestFramePermissions": []
+}
